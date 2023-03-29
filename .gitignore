@@ -1,0 +1,6 @@
+__pycache__/**/*
+.vscode/**/*
+token
+data.db
+data.json
+list.txt
